@@ -4,28 +4,28 @@
     tools:ignore="MissingTranslation">
 
     <!-- YOUR ICON PACK NAME -->
-    <string name="app_name">CandyBar Sample</string>
+    <string name="app_name">Mockup Icon Pack</string>
 
-    <string name="theme_title">Your Icon Pack Name</string>
-    <string name="theme_name">Your Icon Pack Name</string>
+    <string name="theme_title">Mockup</string>
+    <string name="theme_name">Mockup</string>
 
-    <string name="theme_author">Developer</string>
-    <string name="developer_name">Developer</string>
-    <string name="developerName">Developer</string>
-    <string name="authorName">Developer</string>
+    <string name="theme_author">ZeusOfTheCrows</string>
+    <string name="developer_name">ZeusOfTheCrows</string>
+    <string name="developerName">ZeusOfTheCrows</string>
+    <string name="authorName">ZeusOfTheCrows</string>
 
-    <string name="authorLink">http://www.yourlink.com</string>
-    <string name="developer_link">http://www.yourlink.com/</string>
+    <string name="authorLink">https://zeusofthecrows.github.io/</string>
+    <string name="developer_link">https://zeusofthecrows.github.io/</string>
 
-    <string name="theme_description">Your Icon Pack Description</string>
-    <string name="theme_info">Your Icon Pack Description</string>
-    <string name="theme_ad_msg">Your Icon Pack Description</string>
+    <string name="theme_description">I don't know, use your eyes</string>
+    <string name="theme_info">Lorum ipsum</string>
+    <string name="theme_ad_msg">Orum lipsum</string>
 
-    <string name="theme_feature">feature</string>
+    <string name="theme_feature">Icons</string>
 
     <string name="theme_preview1">preview1</string>
     <string name="theme_preview2">preview2</string>
 
-    <string name="iconpack">com.your.package.name</string>
+    <string name="iconpack">com.zeusofthecrows.mockup</string>
 
 </resources>
