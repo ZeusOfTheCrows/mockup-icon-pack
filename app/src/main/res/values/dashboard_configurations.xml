@@ -10,23 +10,23 @@
     <!-- CONFIG: DEFAULT THEME -->
 
     <!-- Use dark theme as default theme -->
-    <bool name="use_dark_theme">false</bool>
+    <bool name="use_dark_theme">true</bool>
 
     <!-- CONFIG: MUZEI -->
 
     <!-- Muzei art source name -->
-    <string name="muzei_art_source_name">Your Art Source Name</string>
+    <!-- <string name="muzei_art_source_name">Your Art Source Name</string> -->
 
     <!-- Muzei art source description -->
-    <string name="muzei_art_source_desc">Your Art Source Description</string>
+    <!-- <string name="muzei_art_source_desc">Your Art Source Description</string> -->
 
     <!-- Muzei base color -->
-    <color name="muzei_color">#0082B4</color>
+    <!-- <color name="muzei_color">#0082B4</color> -->
 
     <!-- CONFIG: HOME -->
 
     <!-- Home title must be defined -->
-    <string name="home_title">CandyBar</string>
+    <string name="home_title">Mockup</string>
 
     <!-- Home image
     * If you want to use image from url, just put the url here
@@ -35,7 +35,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="home_image">https://drive.google.com/uc?id=0B0f4ypHfNKm5VHVjbXZNSS1TUUU</string>
+    <string name="home_image">#232323</string>
 
     <!-- Home image style
     * Available choices:
@@ -49,15 +49,15 @@
     <!-- Home description
     - If you don't want to show description, just leave this empty -->
     <string name="home_description"><![CDATA[
-        Description now supports html formatting, <b>bold description</b>,
-        <i>italic description</i>, <u>underline description</u>,
-        <a href="https://github.com/danimahardhika">link inside description</a>.
+        Icon pack blatantly ripped off XT\'s peek, but designed for android. Give him some love
+        <a href="https://repo.packix.com/package/com.theprestigext.peek/">here</a> and
+        <a href="https://repo.packix.com/package/com.theprestigext.peekdark/">here</a>.
         ]]></string>
 
     <!-- More apps at Google Play Store
     * Link to google play store developer
     * If you don't want to show this part, just leave this empty -->
-    <string name="google_play_dev">https://play.google.com/store/apps/dev?id=your_developer_id</string>
+    <string name="google_play_dev"></string>
 
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
 
@@ -69,11 +69,11 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="navigation_view_header">https://drive.google.com/uc?id=0B0f4ypHfNKm5VHVjbXZNSS1TUUU</string>
+    <string name="navigation_view_header">#232323</string>
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title">CandyBar</string>
+    <string name="navigation_view_header_title">Mockup</string>
     
     <!-- CONFIG: APPLY -->
     <!-- Enable or disable apply section -->
@@ -131,7 +131,7 @@
     <!-- Take a look inside License.java for premium request product -->
 
     <!-- Email that will be used to send icon request and report bugs -->
-    <string name="dev_email">your@email.com</string>
+    <string name="dev_email">zeusofthecrows+mockup@gmail.com</string>
 
     <!-- CONFIG: CLOUD WALLPAPERS -->
 
@@ -144,7 +144,7 @@
     * just put your wallpaper app package name here
     * example: com.dm.wallpaper.board.demo
     * <string name="wallpaper_json">com.dm.wallpaper.board.demo</string> -->
-    <string name="wallpaper_json">https://drive.google.com/uc?id=0B0f4ypHfNKm5TmRMSnhpb2JSalE</string>
+    <string name="wallpaper_json"></string>
 
     <!-- Allow to download wallpaper
     * If disabled user only able to apply wallpaper from dashboard -->
@@ -178,22 +178,22 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="about_image">https://drive.google.com/uc?id=0B0f4ypHfNKm5VHVjbXZNSS1TUUU</string>
+    <string name="about_image">mockup_header</string>
 
     <!-- About profile image
     * If you want to use image from url, just put the url here
     * If you want to use image stored in project (drawable folder)
     * just put image name here without the extension (ex: about_profile_image.png -> about_profile_image) -->
-    <string name="about_profile_image">https://lh3.googleusercontent.com/-KBI2HdgNtN0/AAAAAAAAAAI/AAAAAAAABpc/icnuAgrjOT4/s256-p-rw-no/photo.jpg</string>
+    <string name="about_profile_image">mockup_logo</string>
 
     <!-- About title above description -->
-    <string name="about_title">CandyBar \nMaterial Dashboard</string>
+    <string name="about_title">Mockup\nIcon Pack</string>
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
-        About description now supports html formatting, <b>bold description</b>,
-        <i>italic description</i>, <u>underline description</u>,
-        <a href="https://github.com/danimahardhika">link inside description</a>.
+        Icon pack blatantly ripped off XT\'s peek, but designed for android. Give him some love
+        <a href="https://repo.packix.com/package/com.theprestigext.peek/">here</a> and
+        <a href="https://repo.packix.com/package/com.theprestigext.peekdark/">here</a>.
         ]]></string>
 
     <!-- Social link inside about
@@ -205,13 +205,8 @@
     * ex:
     * <string-array name="about_social_links"></string-array>-->
     <string-array name="about_social_links">
-        <item>https://www.instagram.com/_u/yourusername</item>
-        <item>https://twitter.com/</item>
-        <item>https://www.behance.net/</item>
-        <item>https://plus.google.com/u/1/+yourusername</item>
-        <item>http://github.com/yourusername</item>
-        <item>http://www.yourwebsite.com</item>
-        <item>your@email.com</item>
+        <item>http://zeusofthecrows.github.io</item>
+        <item>zeusofthecrows+mockup@email.com</item>
     </string-array>
 
     <!-- Contributors dialog

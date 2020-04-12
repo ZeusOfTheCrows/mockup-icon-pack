@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io/api/android,intellij,osx,gradle,java
 
+# My Files:
+wiki.html
+
 ### Android ###
 # Built application files
 *.apk
