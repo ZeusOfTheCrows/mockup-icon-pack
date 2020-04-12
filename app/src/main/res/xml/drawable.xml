@@ -1,29 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version>1</version>
+ <version>0.1</version>
 
-    <category title="Newly Added" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
+ <category title="Newly Added" />
+  <item drawable="adaway" />
+  <item drawable="aptoide" />
+  <item drawable="auroraDroid" />
+  <item drawable="auto_Dark_Mode" />
+  <item drawable="backdrops" />
+  <item drawable="bitwarden" />
+  <item drawable="bitwarden_Alt" />
+  <item drawable="chrome" />
+  <item drawable="chrome_google" />
+  <item drawable="chrome_mono" />
+  <item drawable="chrome_simple" />
+  <item drawable="feedme" />
+  <item drawable="firefox" />
+  <item drawable="firefox_legacy" />
+  <item drawable="generic_bank" />
+  <item drawable="generic_candybar" />
+  <item drawable="google_photos" />
+  <item drawable="ic_splash_screen" />
+  <item drawable="klck" />
+  <item drawable="klwp" />
+  <item drawable="kwgt" />
+  <item drawable="monzo" />
+  <item drawable="play_store" />
+  <item drawable="shazam" />
+  <item drawable="slide_for_reddit" />
+  <item drawable="solid_explorer" />
+  <item drawable="soundhound" />
+  <item drawable="spotify" />
+  <item drawable="spotify_gradient" />
+  <item drawable="telegram" />
 
-    <category title="Apps" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
+ <category title="Apps" />
+  <item drawable="adaway" />
+  <item drawable="aptoide" />
+  <item drawable="aurora_droid" />
+  <item drawable="auto_dark" />
+  <item drawable="backdrops" />
+  <item drawable="bitwarden" />
+  <item drawable="bitwarden_key" />
+  <item drawable="chrome" />
+  <item drawable="chrome_google" />
+  <item drawable="chrome_mono" />
+  <item drawable="chrome_simple" />
+  <item drawable="feedme" />
+  <item drawable="firefox" />
+  <item drawable="firefox_legacy" />
+  <item drawable="generic_bank" />
+  <item drawable="generic_candybar" />
+  <item drawable="google_photos" />
+  <item drawable="ic_splash_screen" />
+  <item drawable="klck" />
+  <item drawable="klwp" />
+  <item drawable="kwgt" />
+  <item drawable="monzo" />
+  <item drawable="play_store" />
+  <item drawable="shazam" />
+  <item drawable="slide_for_reddit" />
+  <item drawable="solid_explorer" />
+  <item drawable="soundhound" />
+  <item drawable="spotify" />
+  <item drawable="spotify_gradient" />
+  <item drawable="telegram" />
 
-    <category title="Games" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
+ <category title="Google" />
+  <item drawable="chrome" />
+  <item drawable="chrome_google" />
+  <item drawable="chrome_mono" />
+  <item drawable="chrome_simple" />
+  <item drawable="google_photos" />
+  <item drawable="play_store" />
+
+
+ <category title="Generic" />
+ <item drawable="generic_bank" />
+ <item drawable="generic_candybar" />
 
 </resources>
