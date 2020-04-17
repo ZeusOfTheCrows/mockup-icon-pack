@@ -1,37 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <version>0.1</version>
+ <version>0.1.1</version>
 
  <category title="Newly Added" />
-  <item drawable="adaway" />
-  <item drawable="aptoide" />
-  <item drawable="auroraDroid" />
-  <item drawable="auto_Dark_Mode" />
-  <item drawable="backdrops" />
+  <item drawable="bromite" />
+  <item drawable="calculator" />
+  <item drawable="calendar" />
+  <item drawable="calendar_google" />
+  <item drawable="contacts_google" />
+  <item drawable="yandex" />
   <item drawable="bitwarden" />
-  <item drawable="bitwarden_Alt" />
-  <item drawable="chrome" />
-  <item drawable="chrome_google" />
-  <item drawable="chrome_mono" />
-  <item drawable="chrome_simple" />
-  <item drawable="feedme" />
-  <item drawable="firefox" />
-  <item drawable="firefox_legacy" />
-  <item drawable="generic_bank" />
-  <item drawable="generic_candybar" />
-  <item drawable="google_photos" />
-  <item drawable="ic_splash_screen" />
-  <item drawable="klck" />
-  <item drawable="klwp" />
-  <item drawable="kwgt" />
-  <item drawable="monzo" />
-  <item drawable="play_store" />
-  <item drawable="shazam" />
+  <item drawable="bitwarden_alt" />
   <item drawable="slide_for_reddit" />
-  <item drawable="solid_explorer" />
-  <item drawable="soundhound" />
-  <item drawable="spotify" />
-  <item drawable="spotify_gradient" />
   <item drawable="telegram" />
 
  <category title="Apps" />
@@ -41,17 +21,22 @@
   <item drawable="auto_dark" />
   <item drawable="backdrops" />
   <item drawable="bitwarden" />
-  <item drawable="bitwarden_key" />
+  <item drawable="bitwarden_alt" />
+  <item drawable="bromite" />
+  <item drawable="calculator" />
+  <item drawable="calendar" />
+  <item drawable="calendar_google" />
   <item drawable="chrome" />
   <item drawable="chrome_google" />
   <item drawable="chrome_mono" />
   <item drawable="chrome_simple" />
+  <item drawable="contacts_google" />
   <item drawable="feedme" />
   <item drawable="firefox" />
   <item drawable="firefox_legacy" />
   <item drawable="generic_bank" />
   <item drawable="generic_candybar" />
-  <item drawable="google_photos" />
+  <item drawable="photos_google" />
   <item drawable="ic_splash_screen" />
   <item drawable="klck" />
   <item drawable="klwp" />
@@ -65,18 +50,21 @@
   <item drawable="spotify" />
   <item drawable="spotify_gradient" />
   <item drawable="telegram" />
+  <item drawable="yandex" />
 
  <category title="Google" />
+  <item drawable="calendar_google" />
   <item drawable="chrome" />
   <item drawable="chrome_google" />
   <item drawable="chrome_mono" />
   <item drawable="chrome_simple" />
-  <item drawable="google_photos" />
+  <item drawable="contacts_google" />
+  <item drawable="photos_google" />
   <item drawable="play_store" />
 
 
  <category title="Generic" />
- <item drawable="generic_bank" />
- <item drawable="generic_candybar" />
+  <item drawable="generic_bank" />
+  <item drawable="generic_candybar" />
 
 </resources>
